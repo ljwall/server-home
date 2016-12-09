@@ -1,0 +1,9 @@
+[user]
+        email = liam@magicseaweed.com
+        name = liam
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+
